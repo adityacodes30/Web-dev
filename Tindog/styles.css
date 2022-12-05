@@ -75,19 +75,19 @@ transform: rotate(25deg);
 
 
 
-.col-lg-1
+/* .col
 {
-    position: relative;
+    /* position: relative;
     /* background-color: bisque; */
-    border-radius: 10px;
+    /* border-radius: 10px;
     margin-right: 2%;
     width: 22% ;
     height: 316.8px ;
     margin-top: 100px;
-    margin-bottom: 100px;
-    left: 15%;
+    margin-bottom: 100px; */
+    /* left: 15%;  */
 
-}
+
 
 
 .fa-solid
@@ -139,4 +139,10 @@ transform: translateY(300%);
 margin-bottom: 2px;
 }
 
+
+.container2
+{
+padding: 7% 15%;
+
+}
 
