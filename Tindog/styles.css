@@ -1,4 +1,4 @@
-.meet 
+.meet
 {
 position: relative;
 margin-top: 3.5rem;
@@ -310,3 +310,107 @@ span
     width: 230px;
 }
 
+#container-pricing
+{
+    padding: 7% 15%;
+    text-align: center;
+}
+
+h1
+{
+    
+    font-family: 'Montserrat-Bold', sans-serif;
+line-height: 1.25;
+font-weight: 700;
+font-weight: 2000;
+font-size: 3.5rem;
+
+}
+
+.ptext
+{
+    margin-bottom: 8%;
+
+}
+
+p
+{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: larger;
+}
+
+.card-body
+{
+    padding: 0;
+}
+
+h5
+{
+    font-size: 2rem;
+}
+
+.cardin
+{
+    padding: 6%;
+}
+
+.card-text
+{
+    font-family: 'ubuntu', sans-serif;
+    opacity: 0.7;
+}
+
+.sign
+{
+    margin-top: 3%;
+}
+
+#cont-id
+{
+    padding: 7% 15%;
+    background-color: #EC5A6E;
+    text-align: center;
+
+    vertical-align: middle;
+}
+
+.find
+{
+    position: relative;
+  
+    font-family: 'Montserrat-Bold', sans-serif;
+    line-height: 1.25;
+    font-weight: 700;
+    font-weight: 2000;
+    color: whitesmoke;
+    font-size: 9vh ;
+    margin-bottom: 2rem;
+    
+
+
+}
+
+.cta-btn
+{
+size: 200%;
+
+}
+
+.cont-foot
+{
+    text-align: center;
+    padding: 10% 15%;
+}
+
+.fas 
+{
+    padding: 1.5vw;
+    font-size: 3vw;
+}
+
+.linkedin
+{
+    font-style: italic;
+    color: #EC5A6E;
+    
+}
